@@ -9,3 +9,6 @@
 **4.python advance programming(25/25)**
 
 **5.Excel(10/10)**
+
+**6.SQL(10/10)**
+
